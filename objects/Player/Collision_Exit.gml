@@ -1,0 +1,1 @@
+room_goto(FimJogo_Vitoria);

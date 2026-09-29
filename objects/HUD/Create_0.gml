@@ -1,0 +1,1 @@
+global.font = F_W95;
